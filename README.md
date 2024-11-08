@@ -1,4 +1,4 @@
-[最新バージョンのリリースはこちら](https://github.com/yamatyann/ObjectLayout/releases/tag/objectLayout_var1.1
+[最新バージョンのリリースはこちら](https://github.com/yamatyann/ObjectLayout/releases/tag/objectLayout_var1.1)
 
 灯体の配置図です。
 リリースの画面で、一番上の[(zipファイル)](https://github.com/yamatyann/ObjectLayout/releases/download/objectLayout_var1.1/objectLayout_ver1.1.zip)をダウンロードして解凍、中のexeファイルを起動すればとりあえず動くはずです。
