@@ -1,4 +1,4 @@
-[最新バージョンの画面はこちら](https://github.com/yamatyann/ObjectLayout/releases/tag/objectLayout_var1.1)
+[最新バージョンのサイトはこちら](https://github.com/yamatyann/ObjectLayout/releases/tag/objectLayout_var1.1)
 
 灯体の配置図作成アプリです。
 
