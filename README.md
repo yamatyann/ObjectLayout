@@ -8,7 +8,7 @@
 
 ## ⬇️ ダウンロード
 
-ダウンロードは[こちら](https://github.com/yamatyann/ObjectLayout/archive/refs/heads/main.zip)
+ダウンロードは[こちら](https://github.com/yamatyann/ObjectLayout/releases/download/objectLayout_var1.1/objectLayout_ver1.1.zip)
 
 ---
 
