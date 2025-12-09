@@ -1,0 +1,23 @@
+[
+    {
+        "id": "folder_1",
+        "type": "folder",
+        "name": "灯体",
+        "children": [
+            {
+                "id": "equip_1",
+                "type": "equipment",
+                "name": "パーライト",
+                "manufacturer": "Generic",
+                "image_path": "placeholder.png",
+                "can_be_wired": true
+            }
+        ]
+    },
+    {
+        "id": "folder_2",
+        "type": "folder",
+        "name": "その他オブジェクト",
+        "children": []
+    }
+]
